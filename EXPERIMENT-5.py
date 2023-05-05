@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  4 09:18:53 2023
-
-@author: sridh
-"""
 def gcd(a, b):
     if b == 0:
         return a
