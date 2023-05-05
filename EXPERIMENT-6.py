@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  4 10:01:11 2023
-
-@author: sridh
-"""
 def egcd(a, b):
 	x,y, u,v = 0,1, 1,0
 	while a != 0:
