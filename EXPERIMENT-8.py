@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  4 10:24:07 2023
-
-@author: sridh
-"""
 import string
 def generate_cipher(keyword):
     keyword = keyword.upper()
